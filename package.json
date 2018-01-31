@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/lukemerrett/web-sockets-chat-example/issues"
   },
-  "homepage": "https://github.com/lukemerrett/web-sockets-chat-example#readme"
+  "homepage": "https://github.com/lukemerrett/web-sockets-chat-example#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
 }
