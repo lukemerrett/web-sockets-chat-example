@@ -1,0 +1,24 @@
+{
+  "name": "web-sockets-chat-example",
+  "version": "1.0.0",
+  "description": "Example of using Web Sockets for basic chat, taken from this tutorial: https://socket.io/get-started/chat/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukemerrett/web-sockets-chat-example.git"
+  },
+  "keywords": [
+    "web-sockets",
+    "chat",
+    "socket.io"
+  ],
+  "author": "Luke Merrett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukemerrett/web-sockets-chat-example/issues"
+  },
+  "homepage": "https://github.com/lukemerrett/web-sockets-chat-example#readme"
+}
